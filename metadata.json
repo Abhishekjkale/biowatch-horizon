@@ -1,0 +1,6 @@
+{
+  "name": "BioWatch Horizon",
+  "description": "Predictive dual-use biotechnology threat monitoring and defensive risk mitigation intelligence dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
